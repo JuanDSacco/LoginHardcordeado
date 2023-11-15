@@ -1,0 +1,15 @@
+.divUsuPass{
+    text-align: center;
+    color: #fff;
+}
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    margin-bottom: 30px;
+}
+li{
+    font-weight: bold;
+}

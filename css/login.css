@@ -1,0 +1,12 @@
+div{
+    color: #fff;
+}
+button{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.btnHome{
+    background-color: gray;
+    margin-top: 20px;
+    color: #fff;
+}
